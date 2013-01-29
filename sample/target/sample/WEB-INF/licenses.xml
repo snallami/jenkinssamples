@@ -1,0 +1,5 @@
+<l:dependencies xmlns:l='licenses' groupId='suresh' artifactId='sample' version='1.0-SNAPSHOT'>
+  <l:dependency name='sample' groupId='suresh' artifactId='sample' version='1.0-SNAPSHOT' url='http://jenkins-ci.org/plugin/sample/'>
+    <l:description />
+  </l:dependency>
+</l:dependencies>

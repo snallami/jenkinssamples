@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_09
+Extension-Name: sample
+Implementation-Title: sample
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: suresh
+Short-Name: sample
+Long-Name: sample
+Url: http://jenkins-ci.org/plugin/sample/
+Plugin-Version: 1.0-SNAPSHOT (private-01/28/2013 17:46-Administrator)
+Hudson-Version: 1.466
+Jenkins-Version: 1.466
+Plugin-Developers: 
+
